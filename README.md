@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blasto33
-- 👀 I’m interested in front-end frameworks, especially React 
+- 👀 I’m interested in front-end frameworks, especially React but also everything involving JavaScript
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on anything that involves front-end or video games development
 - 📫 How to reach me ...
