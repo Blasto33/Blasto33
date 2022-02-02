@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blasto33
 - 👀 I’m interested in front-end frameworks, especially React but also everything involving JavaScript
-- 🌱 I’m currently designing a Twitter bot for Minecraft players
+- 🌱 I’m currently learning Remix, a great full stack web framework!
 - 💞️ I’m looking to collaborate on anything that involves front-end or video games development
 - 📫 How to reach me ...
 
