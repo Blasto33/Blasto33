@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that involves front-end or video games development
 - 📫 How to reach me ...
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,remix,sqlite,tailwind,html,css,wasm,docker,firebase,unity,vscode)](https://skillicons.dev)
 
 <!---
 Blasto33/Blasto33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
