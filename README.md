@@ -10,3 +10,5 @@
 Blasto33/Blasto33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://app.daily.dev/Blasto"><img src="https://api.daily.dev/devcards/4a2b8f674cab45d7a6209485f23b1113.png?r=qu1" width="400" alt="Thomas de Barros's Dev Card"/></a>
