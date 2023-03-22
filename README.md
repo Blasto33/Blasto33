@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Blasto33
 - 👀 I’m interested in front-end frameworks, especially React but also everything involving JavaScript
-- 🌱 I’m currently learning Remix, a great full stack web framework while coding a mobile app!
+- 🌱 I’m currently creating a website to track something I'm legally unable to tell about
 - 💞️ I’m looking to collaborate on anything that involves front-end or video games development
-- 📫 How to reach me ...
+- 📫 How to reach me: send me an MP on Twitter @BlastoWasTaken
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,remix,sqlite,tailwind,html,css,wasm,docker,firebase,unity,vscode)](https://skillicons.dev)
 
