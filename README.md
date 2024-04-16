@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that involves web or video games development
 - 📫 How to reach me: send me an MP on Twitter @BlastoWasTaken
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,remix,sqlite,tailwind,html,css,wasm,docker,firebase,unity,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,remix,sqlite,tailwind,html,css,vue,nuxt,docker,firebase,unity,vscode)](https://skillicons.dev)
 
 <!---
 Blasto33/Blasto33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
